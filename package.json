@@ -1,0 +1,23 @@
+{
+  "name": "simple-hash",
+  "version": "0.1.0",
+  "description": "fork from pwd(github.com/visionmedia/node-pwd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twozh/simple-hash.git"
+  },
+  "keywords": [
+    "auth",
+    "password"
+  ],
+  "author": "twozh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twozh/simple-hash/issues"
+  },
+  "homepage": "https://github.com/twozh/simple-hash"
+}
