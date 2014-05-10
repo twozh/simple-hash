@@ -1,4 +1,4 @@
 simple-hash
 ===========
 
-fork from pwd(github.com/visionmedia/node-pwd
+fork from pwd(https://github.com/visionmedia/node-pwd
